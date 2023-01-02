@@ -1,19 +1,22 @@
-﻿@{
+﻿@model List<PortFolio>
+@{
     ViewData["Title"] = "Saed Fahti";
 }
+
 @section SEO
 {
-    <meta name="keywords" content="project,portfolio" />
+    <meta name="keywords" content="project,portfolio"/>
     <meta name="description" content="index description"/>
 }
+
 <!-- One -->
 <section id="one">
     <header class="major">
         <h2>
-            تولید کننده لورم ایپسوم<br />
+            @ViewData["headingTitle"]<br/>
         </h2>
     </header>
-    <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+    <p>@ViewData["headingText"]</p>
     @*  <ul class="actions">
     <li><a href="#" class="button">Learn More</a></li>
     </ul>*@
@@ -25,23 +28,29 @@
     <div class="row">
 
 
-        <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
-            <a href="~/images/thumbs/01.jpg" class="image fit thumb" alt="">
-                <img src="~/images/thumbs/01.jpg" alt="" title="" />
-            </a>
-            
-            <h3 style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی</h3>
-            <p style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
 
-        </article>
-        <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
+        @foreach (var portfolio in Model)
+        {
+            <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
+                <a href="~/images/thumbs/@portfolio.Image" class="image fit thumb" alt="">
+                    <img src="~/images/thumbs/@portfolio.Image" alt="@portfolio.Title" title="@portfolio.Title"/>
+                </a>
+
+                <h3 style="font-weight: normal; text-align: right;">@portfolio.Title</h3>
+                <p style="font-weight: normal; text-align: right;">@portfolio.Description</p>
+
+            </article>
+        }
+
+        @* <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
             <a href="~/images/thumbs/02.jpg" class="image fit thumb" alt="">
                 <img src="~/images/thumbs/02.jpg" alt="" title="" />
             </a>
             <h3 style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی</h3>
             <p style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
 
-        </article>   <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
+        </article> 
+        <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
             <a href="~/images/thumbs/03.jpg" class="image fit thumb" alt="">
                 <img src="~/images/thumbs/03.jpg" alt="" title="" />
             </a>
@@ -49,6 +58,15 @@
             <p style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
 
         </article>
+          <article class="6u 12u$(xsmall) work-item" style="width: 33%;">
+            <a href="~/images/thumbs/04.jpg" class="image fit thumb" alt="">
+                <img src="~/images/thumbs/04.jpg" alt="" title="" />
+            </a>
+            <h3 style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی</h3>
+            <p style="font-weight: normal; text-align: right;">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+
+        </article>*@
+
 
 
     </div>

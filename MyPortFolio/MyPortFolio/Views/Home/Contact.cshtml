@@ -1,6 +1,7 @@
 ﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
+@model Contact
 @{
     ViewData["Title"] = "تماس با ما";
 }
@@ -22,15 +23,15 @@
         <table>
             <tr>
                 <td>آدرس ایمیل:</td>
-                <td>saed.fathi@gmail.com</td>
+                <td>@Model.Email</td>
             </tr>
             <tr>
                 <td>شماره موبایل:</td>
-                <td>0912675467</td>
+                <td>@Model.Mobile</td>
             </tr>
             <tr>
                 <td>آدرس گیت هاب:</td>
-                <td>S.Fathi</td>
+                <td>@Model.GitHub</td>
             </tr>
         </table>
     </div>
