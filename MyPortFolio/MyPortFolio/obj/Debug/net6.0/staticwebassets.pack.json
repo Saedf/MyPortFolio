@@ -5,244 +5,188 @@
       "PackagePath": "staticwebassets\\MyPortFolio.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\ie\\PIE.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\PIE.htc"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\ie\\backgroundsize.min.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\backgroundsize.min.htc"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\ie\\html5shiv.js",
+      "PackagePath": "staticwebassets\\css\\ie\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\ie\\v8.css",
+      "PackagePath": "staticwebassets\\css\\ie\\v8.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\css\\images\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\skel.css",
+      "PackagePath": "staticwebassets\\css\\skel.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\style-large.css",
+      "PackagePath": "staticwebassets\\css\\style-large.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\style-medium.css",
+      "PackagePath": "staticwebassets\\css\\style-medium.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\style-small.css",
+      "PackagePath": "staticwebassets\\css\\style-small.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\style-xlarge.css",
+      "PackagePath": "staticwebassets\\css\\style-xlarge.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\style-xsmall.css",
+      "PackagePath": "staticwebassets\\css\\style-xsmall.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\fulls\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\fulls\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\fulls\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\fulls\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\fulls\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\fulls\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\06.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\thumbs\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\thumbs\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\thumbs\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\thumbs\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\thumbs\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\images\\thumbs\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\06.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\js\\init.js",
+      "PackagePath": "staticwebassets\\js\\init.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\js\\jquery.poptrox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.poptrox.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\js\\skel.min.js",
+      "PackagePath": "staticwebassets\\js\\skel.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\_vars.scss",
+      "PackagePath": "staticwebassets\\sass\\_vars.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\ie\\v8.scss",
+      "PackagePath": "staticwebassets\\sass\\ie\\v8.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\style-large.scss",
+      "PackagePath": "staticwebassets\\sass\\style-large.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\style-medium.scss",
+      "PackagePath": "staticwebassets\\sass\\style-medium.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\style-small.scss",
+      "PackagePath": "staticwebassets\\sass\\style-small.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\style-xlarge.scss",
+      "PackagePath": "staticwebassets\\sass\\style-xlarge.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\style-xsmall.scss",
+      "PackagePath": "staticwebassets\\sass\\style-xsmall.scss"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\MyPortFolio\\MyPortFolio\\MyPortFolio\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyPortFolio.Microsoft.AspNetCore.StaticWebAssets.props",
